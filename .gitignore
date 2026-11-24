@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# data pribadi: jangan di-commit (NIK, vektor wajah, log, foto orang)
+data/gate.db
+data/dataset/*
+!data/dataset/.gitkeep
